@@ -1,0 +1,4 @@
+I prefered simply making the style tile to get a feel for what the website will be. It was quick and easy, and took me maybe half an hour on each of the
+style tiles in order to get colors I liked and get things setup correctly. The photoshop layout I found somewhat clunky and slow, and I couldn't get things to work
+that I know I could make work in CSS. I prefer simply messing around with the code until it looks the way I want it to. I spent a few hours on the photoshop layout and
+still couldn't get it to look how I wanted. 
